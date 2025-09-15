@@ -1,4 +1,5 @@
 let nextId = 1;
+let nexId = 1;
 
 export class Hero {
   id: number;
